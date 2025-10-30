@@ -5,6 +5,18 @@ A LangChain + Groq-powered interactive **Math and Knowledge Assistant** capable 
 
 ---
 
+## 🖼️ Application Preview
+
+#### Home Screen
+![Home UI](images/main_page.png) 
+
+#### Summary Output
+![Summary Output](images/output.png) 
+
+
+---
+
+
 ## 🚀 Features
 
 - 🧮 Step-by-step math reasoning powered by **LLMMathChain**
@@ -37,16 +49,6 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Application Preview
-
-#### Home Screen
-![Home UI](images/main.png) 
-
-#### Summary Output
-![Summary Output](images/output.png) 
-
-
----
 
 ## 🧠 Example Query
 
