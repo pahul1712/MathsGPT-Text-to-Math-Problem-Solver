@@ -39,3 +39,39 @@ streamlit run app.py
 
 ## 🖼️ Application Preview
 
+#### Home Screen
+![Home UI](images/main.png) 
+
+#### Summary Output
+![Summary Output](images/output.png) 
+
+
+---
+
+## 🧠 Example Query
+
+Question:
+I have 5 bananas and 7 grapes. I eat 2 bananas and give away 3 grapes. Then I buy a dozen apples and 2 packs of blueberries (25 berries each). How many fruits do I have in total?
+
+Answer:
+67 total fruits 🍌🍎🫐
+
+
+---
+
+## 💡 Future Enhancements
+
+- ✏️ Add LaTeX-rendered math expressions
+- 🔊 Integrate text-to-speech for answers
+- 📈 Show step-by-step calculation visualization
+- 💾 Add chat history export feature
+
+
+---
+
+
+## 🧑‍💻 Author
+
+Pahuldeep Singh Dhingra
+- 🧑‍🏫 Graduate Teaching Assistant 
+- 🎓 M.S. Data Science & Analytics @ FAU
