@@ -40,6 +40,18 @@ A LangChain + Groq-powered interactive **Math and Knowledge Assistant** capable 
 
 ---
 
+## 🏗️ Project Structure
+```bash
+├── images # Screenshot folder
+├── .gitignore
+├── README.md
+├── app.py # main application
+└── requirements.txt # Dependencies list
+```
+
+---
+
+
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/pahul1712/MathsGPT-Text-to-Math-Problem-Solver.git
