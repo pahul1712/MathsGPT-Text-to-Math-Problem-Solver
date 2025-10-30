@@ -11,7 +11,8 @@ A LangChain + Groq-powered interactive **Math and Knowledge Assistant** capable 
 ![Home UI](images/main_page.png) 
 
 #### Summary Output
-![Summary Output](images/output.png) 
+![Summary Output](images/output1.png) 
+![Summary Output](images/output2.png)
 
 
 ---
